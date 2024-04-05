@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 import jdbc.ConnectionFactory;
 
-public class Lab4 {
+public class main {
 	public static void main(String[] args) {
 		UIStart();
 	}
